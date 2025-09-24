@@ -9,7 +9,6 @@ python-multipart
 pydantic
 requests
 joblib
-ast
 streamlit
 plotly
 matplotlib
